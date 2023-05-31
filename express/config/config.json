@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "dbadmin",
+    "password": "dbadmin123",
+    "database": "hefish_1",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
